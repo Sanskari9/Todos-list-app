@@ -66,7 +66,7 @@ function App() {
           }}>
           </Route>
           <Route exact path="/about" > */}
-            <About />
+            {/* <About /> */}
           {/* </Route>
         </Switch> */}
         <Footer />
